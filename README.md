@@ -1,21 +1,23 @@
-# 🚀 Professional MERN Stack Development Program (JavaScript + Bootstrap)
+# 3‑Month MERN Stack Course (JavaScript + Bootstrap)
 
-**Zero to Job-Ready – 90-Day Structured Roadmap**
+**A Professional 3‑Month, Job‑Focused MERN Stack Training Program**
 **Technology Stack:** HTML • CSS • Bootstrap • JavaScript • React • Node.js • Express.js • MongoDB
 **Program Level:** Beginner → Professional Full-Stack Developer
 **Recommended Daily Commitment:** 5–7 Hours
 
 ---
 
-## 🎯 Program Objective
+## 🎯 Course Overview
 
-Is course ka goal ek learner ko **frontend se backend tak complete MERN engineer** banana hai —
+This 3‑Month MERN Stack Course is a professionally structured training program designed to take learners from web fundamentals to building complete, production‑ready full‑stack applications.
 
-* Strong **JavaScript foundation**
-* **React + Bootstrap** based production UI
-* Secure **Node + Express APIs**
-* Scalable **MongoDB database design**
-* Real‑world projects + deployment
+The course focuses on:
+
+* A strong **JavaScript-first development approach**
+* Building responsive user interfaces using **React + Bootstrap**
+* Developing secure and scalable **REST APIs with Node.js and Express**
+* Designing and managing databases using **MongoDB & Mongoose**
+* Delivering real‑world projects and a complete **full‑stack capstone application**
 
 ---
 
@@ -318,11 +320,3 @@ Is course ka goal ek learner ko **frontend se backend tak complete MERN engineer
 ✔ Strong JavaScript foundation
 ✔ Full‑stack confidence
 
----
-
-**Next Options:**
-
-* Day‑wise lesson plan
-* Assignments PDF
-* Institute / bootcamp syllabus
-* Backend‑only / Frontend‑only roadmap
